@@ -417,9 +417,6 @@ header{
 .footer_container{
     grid-template-columns: repeat(2,1fr);
 }
-.navbar {
-    padding: 2rem 2rem;
-}
 .heading {
     font-size: 3em;
 }
